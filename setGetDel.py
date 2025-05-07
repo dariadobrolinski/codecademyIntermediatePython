@@ -24,7 +24,7 @@ e1 = Employee("Maisy")
 e2 = Employee()
 print(e1.get_name())
 
-e2.set_name("Fluffy")
+e2.set_name("Karolina")
 print(e2.get_name())
 
 e2.del_name()
